@@ -1,0 +1,1 @@
+# vosk-python-ptbr
